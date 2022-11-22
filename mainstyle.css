@@ -1,0 +1,69 @@
+/* Type your main CSS styles here */
+	<style>
+		div{
+			border:1px solid black;
+			width:900px;
+		}
+	     div {
+             margin: auto;
+             width: 50%;
+             border: 3px solid green;
+             padding: 10px;
+        }
+		p{
+		  font-size: 25px;
+		  color: white;
+		}
+		a{
+		  font-size: 20px;
+		
+		}
+		span{
+		  font-size: 25px;
+		
+		}
+		h5{
+		  font-size: 25px;
+		
+		}
+		h5{
+		  color: green;
+		
+		}
+		div{
+		  align-items:center;
+		
+		}
+		 div {
+            margin: auto;
+            width: 50%;
+            border: 3px solid Crimson;
+            padding: 10px;
+        }
+        h1{
+			text-align: center;
+			color: white; 
+		}
+		a{
+			color: white;
+            font-size: 45px;			
+		}
+		h2{
+			color: white;
+            font-size: 40px;			
+		}
+		h4{
+			color: white;
+            font-size: 30px;			
+		}
+		h6{
+			color: white;
+            font-size: 25px;			
+		}
+		h3{
+			color: white;
+            font-size: 40px;	
+			
+		}
+		
+	</style>
